@@ -1,0 +1,57 @@
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.exe
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.deps.json
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.runtimeconfig.json
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.pdb
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\WindowsInput.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker_MarkupCompile.cache
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.g.resources
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.AssemblyInfo.cs
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.csproj.CopyComplete
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\refint\Auto clicker.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.pdb
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.genruntimeconfig.cache
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\ref\Auto clicker.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker_Content.g.cs
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Omar\Desktop\EonBeta\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\App.baml
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.exe
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.deps.json
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.runtimeconfig.json
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Auto clicker.pdb
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\WindowsInput.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.csproj.AssemblyReference.cache
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\App.baml
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker_Content.g.cs
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker_MarkupCompile.cache
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.g.resources
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.AssemblyInfo.cs
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.csproj.CopyComplete
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\refint\Auto clicker.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.pdb
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\Auto clicker.genruntimeconfig.cache
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\obj\Debug\net8.0-windows\ref\Auto clicker.dll
+C:\Users\Omar\Desktop\code\Auto clicker\Auto clicker\bin\Debug\net8.0-windows\153199278.jpg
